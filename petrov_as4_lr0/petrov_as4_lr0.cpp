@@ -9,3 +9,5 @@ int main()
 	std::string stroka;
 	std::getline(std::cin, stroka);
 }
+
+//тест с другого компьютера
